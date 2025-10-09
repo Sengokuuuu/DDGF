@@ -12,7 +12,7 @@ Diffusion models have demonstrated exceptional performance in image super-resolu
 
 ## 🎇 Architecture of DDGF
 
-<img width="4606" height="2238" alt="Main(1)" src="https://github.com/user-attachments/assets/05a85cc8-bc6b-41e4-8bd1-b7c4bd492d63" />
+<img width="7370" height="3581" alt="Fig2_2_01" src="https://github.com/user-attachments/assets/57afe2e7-9e93-4ca2-b692-f484bc134d52" />
 
 ---
 
