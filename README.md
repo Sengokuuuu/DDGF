@@ -1,4 +1,4 @@
-# Zero-Shot Medical Image Super-Resolution Using Denoising Diffusion Models with Gradient-Frequency Priors
+# [DDGF] Zero-Shot Medical Image Super-Resolution Using Denoising Diffusion Models with Gradient-Frequency Priors
 
 ![](https://img.shields.io/badge/Python-3.10-blue.svg)  ![](https://img.shields.io/badge/PyTorch-2.7.0+-ee4c2c.svg)  ![](https://img.shields.io/badge/License-MIT-green.svg)
 
@@ -54,8 +54,6 @@ exp
 │     ├── BraTS.pt
 ```
 
-> **Note:** Pre-trained models will be released upon paper acceptance.  
-
 ### Datasets
 
  For these three datasets, you can place them in :
@@ -70,8 +68,6 @@ exp
 |   ├── BraTS
 │     ├── BraTS
 ```
-
-> **Note:** Dataset details and download links will be provided upon paper acceptance.  
 
 ### Test
 
@@ -205,5 +201,5 @@ python Cul_Result.py [path your results]
 
 ## 🎈 **Acknowledgements**
 
-**We sincerely thank everyone for their tremendous contributions to this project, and extend our gratitude to the editors and reviewers for their dedicated work!**
+Our implementation is built upon [DDRM](https://github.com/bahjat-kawar/ddrm), [DDNM](https://github.com/wyhuai/DDNM), and [DDPG](https://github.com/tirer-lab/DDPG). We thank the authors for their excellent work.
 
