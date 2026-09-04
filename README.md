@@ -1,6 +1,12 @@
-# [DDGF] Zero-Shot Medical Image Super-Resolution Using Denoising Diffusion Models with Gradient-Frequency Priors
-## 📖[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S1746809426018975?via%3Dihub)
-> Jiaqi Zhang, Guo Yang, Rongrong Gao, Yang Yang <br>
+<h1 align="center">[DDGF] Zero-Shot Medical Image Super-Resolution Using Denoising Diffusion Models with Gradient-Frequency Priors</h1>
+
+<p align="center">
+  <b>Jiaqi Zhang</b>, Guo Yang, Rongrong Gao, Yang Yang
+</p>
+
+<div align="center">
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S1746809426018975?via%3Dihub"><img src="https://img.shields.io/badge/Paper-ScienceDirect-1471B8?style=for-the-badge" alt="Paper" /></a>
+</div>
 
 ## 📌 Abstract
 
